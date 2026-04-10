@@ -1,4 +1,6 @@
-# reapd — Feedback & Roadmap
+<img width="5000" height="2000" alt="reapd io-purple" src="https://github.com/user-attachments/assets/5acf215d-7861-4743-8cd1-5bdf79dc2ed3" />
+
+# <img width="75" height="75" alt="reapd-reaper" src="https://github.com/user-attachments/assets/2a5c9d66-928e-479b-863e-c589b936da82" /> reapd — Feedback & Roadmap 
 
 This is the public issue tracker and roadmap for [reapd](https://reapd-production.up.railway.app) — a web app for deploying SFDX GitHub repositories to Salesforce orgs.
 
