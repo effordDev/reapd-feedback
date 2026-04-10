@@ -32,7 +32,7 @@ These are features we're actively thinking about. Community votes and feedback h
 - **Changelog** — in-app release notes so you always know what's new
 - **Deploy notifications** — email when a long deployment finishes
 - **Usage limits** — free tier deploy caps to encourage sustainable growth
-- **Status page** — public uptime page so you can check if reapd is having issues
+- [x] **Status page** — public uptime page so you can check if reapd is having issues
 
 ### Ideas — Help Us Prioritize
 Got a use case for any of these? Comment on the idea or open a new one!
